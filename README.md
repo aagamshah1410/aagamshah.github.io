@@ -57,27 +57,27 @@ PERCENTAGE : 88%
 
 ### Skills
 <ul>
-  <li>Leadership
-  <li>Good Communication
-  <li>Management Skill
-  <li>Time Management
-  <li>Social Media Marketing
+  <li>Leadership</li>
+  <li>Good Communication</li>
+  <li>Management Skill</li>
+  <li>Time Management</li>
+  <li>Social Media Marketing</li>
 </ul>
   
 ### LANGUAGES
 
 <ul>
-  <li>GUJARATI
-  <li>ENGLISH
-  <li>HINDI
+  <li>GUJARATI</li>
+  <li>ENGLISH</li>
+  <li>HINDI</li>
 </ul>
   
 ### INTERESTS
 
 <ul>
-  <li>WEB DESIGN AND DEVELOPMENT
-  <li>JAVA DEVELOPMENT
-  <li>ANDROID DEVELOPMENT
+  <li>WEB DESIGN AND DEVELOPMENT</li>
+  <li>JAVA DEVELOPMENT</li>
+  <li>ANDROID DEVELOPMENT</li>
 </ul>
 
 I like to travel and play the indoor games.
