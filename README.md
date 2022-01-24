@@ -1,10 +1,10 @@
-## Objective
-
-I am looking for a challenging job with a rapidly growing organization that can provide me with a range of goals and job objectives within a contemporary and economical business setting.
-
 ## Portfolio
 
 I am a frontend engineer with an experience of over 6 Months. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and java for 6 Months.
+
+## Objective
+
+I am looking for a challenging job with a rapidly growing organization that can provide me with a range of goals and job objectives within a contemporary and economical business setting.
 
 ---
 
