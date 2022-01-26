@@ -11,11 +11,11 @@ I am looking for a challenging job with a rapidly growing organization that can 
 ## Technical Skills
 
 <p align='left'>
-  <img onmouseover="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img onmouseover="CSS" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img onmouseover="JAVASCRIPT" src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-  <img onmouseover="REACT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-  <img onmouseover="JAVA" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Java_20131025_1864663017.jpg" alt="java" width="40" height="40"/>
+  <img title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img title="CSS" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+  <img title="JAVASCRIPT" src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+  <img title="REACT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+  <img title="JAVA" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Java_20131025_1864663017.jpg" alt="java" width="40" height="40"/>
 </p>
 
 ---
